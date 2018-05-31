@@ -15,9 +15,9 @@ Submit your small part of code without initial statements and functions. It's a 
 
 If you have a private code and don't want to share with people please mail me at yuwrajjr@gmail.com
 
-# Generally how you coding must starts?
+# Generally how your coding must starts?
 
-Check any suitable preferred language.
+Use any suitable preferred language.
 
 Start with;
 
@@ -29,6 +29,15 @@ elif{}
 
 else:
 
+# Check This
 
-
+1. Use network flow example relate directly to real life
+2. Must check bugs and error
+3. Add code when you are done writting correct one
+4. Your Contribution to AI Development will be very very helpful to further process a simple task
+5. AI mostly works on Flow network so we are inviting you to add your own
+6. Any common or known flow you can add
+7. If you haven't known about languages, go to https://www.codecademy.com/ to learn
+8. If you don't want to learn just message me at yuwrajjr@gmail.com with your flow chart
+9. Flowchart must be original and bugs free
 
