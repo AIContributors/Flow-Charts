@@ -40,4 +40,5 @@ else:
 7. If you haven't known about languages, go to https://www.codecademy.com/ to learn
 8. If you don't want to learn just message me at yuwrajjr@gmail.com with your flow chart
 9. Flowchart must be original and bugs free
-
+10. Don't submit already submitted
+11. Add your own branch if working on big projects otherwise just add a file and must add a suitable title to your file
